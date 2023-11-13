@@ -8,7 +8,9 @@ My numerical method works using Python
 * Solutions  of  Algebraic  Transcendental Equations
   - [x] Bisection Method
   - [x] False Position Method
-  - [x] Newton Raphson Method 
+  - [x] Newton Raphson Method
+* Interpolation
+  - [x] Lagrange Interpolation
 
 
 ## Check My Other Codes
